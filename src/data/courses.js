@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Introduction to Cooking",
-    chef: "Chef John",
+    chef: "Chef Sizwe",
     level: "Beginner",
     price: 99.99,
     available: true,
