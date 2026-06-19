@@ -11,6 +11,7 @@
         :price="course.price"
         :available="course.available"
         @save="wishlistCount++"
+        :image="course.image"
       />
     </div>
   </div>

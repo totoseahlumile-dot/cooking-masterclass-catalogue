@@ -1,11 +1,13 @@
 <template>
   <div class="card">
+    <img :src="image" :alt="title" class="course-image"/>
     <h2>{{ title }}</h2>
     <p>Chef: {{ chef }}</p>
     <p>Level: {{ level }}</p>
     <p>Price: R{{ price }}</p>
     <button v-if="available" @click="saveClicked">Save</button>
     <p v-else class="sold-out">Sold Out</p>
+    
   </div>
 </template>
 
@@ -18,6 +20,7 @@ export default {
     level: String,
     price: Number,
     available: Boolean,
+    image: String
   },
   methods: {
     saveClicked() {
@@ -67,5 +70,13 @@ button:hover {
   margin-top: 12px;
   color: #000000;
   font-weight: bold;
+}
+
+.course-image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 12px;
 }
 </style>
