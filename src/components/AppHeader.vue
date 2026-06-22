@@ -17,8 +17,8 @@ export default {
 </script>
 <style scoped>
 header {
-  background-color:rgb(66, 209, 5);
-  color: white;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
   padding: 16px 32px;
   display: flex;
   justify-content: space-between;
@@ -30,7 +30,7 @@ h1 {
 }
 
 span {
-  background-color: #378705;
+  background-color:#aeaaaa;
   padding: 6px 14px;
   border-radius: 20px;
   font-size: 0.9rem;

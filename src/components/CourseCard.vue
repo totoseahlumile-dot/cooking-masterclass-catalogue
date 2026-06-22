@@ -53,7 +53,7 @@ p {
 button {
   margin-top: 12px;
   padding: 8px 20px;
-  background-color: #1bbf09;
+  background-color: #191919;
   color: rgb(243, 247, 243);
   border: none;
   border-radius: 6px;
@@ -62,7 +62,7 @@ button {
 }
 
 button:hover {
-  background-color: #169508;
+  background-color: #3d423c;
   color:#f7f5f5
 }
 
