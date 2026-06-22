@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Introduction to Cooking",
-    chef: "Chef Isiah",
+    chef: "Chef Isabella",
     level: "Beginner",
     price: 99.99,
     available: true,
@@ -11,7 +11,7 @@ export default [
   {
     id: 2,
     title: "Advanced Culinary Techniques",
-    chef: "Chef Maria",
+    chef: "Chef Mark",
     level: "Advanced",
     price: 199.99,
     available: false,
@@ -33,7 +33,7 @@ export default [
     level: "Beginner",
     price: 129.99,
     available: true,
-    image: ""
+    image: "https://d1hm90tax3m3th.cloudfront.net/web/adobestock-139379446-2.jpeg"
   },
   {
     id: 5,
@@ -59,33 +59,33 @@ export default [
     level: "Beginner",
     price: 600.99,
     available: false,
-    image: ""
+    image: "https://cdn.prod.website-files.com/60d1f0b413ba8348509a33a6/632054ac16db8a61c4572be2_how-to-be-a-better-cook-19.jpg"
   },{
     id: 8,
-    title: "How To Cook Series",
-    chef: "Chef Adrian",
+    title: "Career Culinary",
+    chef: "Chef Melissa",
     level: "Semi-pro",
     price: 999.99,
     available: true,
-    image: ""
+    image: "https://www.internationalculinarystudio.com/wp-content/uploads/2022/11/Career-Culinary-Pathway.jpg"
   },
   {
     id: 9,
-    title: "Healthy Cooking with Chef Kahnya",
+    title: "Chef Gear",
     chef: "Chef Kahnya",
-    level: "Beginner",
-    price: 800.99,
+    level: "World-Class",
+    price: 1900.00,
     available: true,
-    image: ""
+    image: "https://cdn.fundiconnect.co.za/fundiconnect/wp-migrated/Blog-images-75.jpg?quality=75"
   },
   {
     id: 10,
-    title: "Whole Foods Family Kitchen",
+    title: "Whole Foods Chef",
     chef: "Chef Kayla",
     level: "Beginner",
     price: 899.99,
     available: false,
-    image: ""
+    image: "https://www.pmq.com/wp-content/uploads/2025/04/WHOLEFOODS.jpg"
   },{
     id: 11,
     title: "How To Cook:Foundations",
@@ -98,7 +98,7 @@ export default [
     id: 12,
     title: "How To Cook:Professional Techniques",
     chef: "Chef Alex",
-    level: "Semi-pro",
+    level: "Professional",
     price: 999.99,
     available: true,
     image:"https://media.istockphoto.com/id/2222899828/photo/african-american-male-chef-sprinkles-fresh-basil-over-a-plated-dish.webp?a=1&b=1&s=612x612&w=0&k=20&c=jAiQ1_591hEmNfXuHSvLHAR6rOzYta3wKPcq9jB6hzM="
