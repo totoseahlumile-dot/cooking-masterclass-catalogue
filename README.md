@@ -10,7 +10,7 @@ A responsive Vue.js single-page application showcasing available cooking courses
 ## Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/YOUR-USERNAME/cooking-masterclass-catalogue.git
+   git clone https://github.com/totoseahlumile-dot/cooking-masterclass-catalogue.git
 
 2. Navigate into the project folder:
    cd cooking-masterclass-catalogue
@@ -25,6 +25,7 @@ A responsive Vue.js single-page application showcasing available cooking courses
    http://localhost:5173
 
 ## Screenshot
+<img width="1891" height="872" alt="image" src="https://github.com/user-attachments/assets/663aeaae-cf4d-4e93-acdf-42fb3383d86f" />
 
 
 ## Features
